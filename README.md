@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gu-xy17
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning from the very beginning of basic computer programming including Linux, R and python
 - 💞️ I kinda need a lot of help......
 
 <!---
